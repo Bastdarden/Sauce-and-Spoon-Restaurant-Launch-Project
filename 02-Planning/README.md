@@ -20,3 +20,26 @@ The Project Plan translated approved project objectives into an actionable execu
 * Risk Management
 * Project Execution
 
+## Reservation System Gantt Chart
+
+The Gantt Chart provided a visual project schedule outlining major project phases, milestones, task dependencies, and implementation timelines for the Sauce & Spoon Digital Menu Tablet Initiative.
+
+This planning artifact was used to coordinate project execution activities, monitor progress, identify scheduling risks, and communicate implementation timelines to project stakeholders.
+
+### Key Contributions
+
+* Developed project timeline visualization
+* Defined task sequencing and dependencies
+* Established implementation milestones
+* Supported project monitoring and status reporting
+* Improved stakeholder visibility into project progress
+
+### Skills Demonstrated
+
+* Schedule Management
+* Timeline Development
+* Dependency Mapping
+* Milestone Tracking
+* Project Controls
+* Stakeholder Communication
+* Project Monitoring
