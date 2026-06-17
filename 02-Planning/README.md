@@ -43,3 +43,26 @@ This planning artifact was used to coordinate project execution activities, moni
 * Project Controls
 * Stakeholder Communication
 * Project Monitoring
+
+## Strategic Objectives & Key Results (OKR) Framework
+
+This document defines the organizational objectives, key performance indicators, and business outcomes that guided project selection and execution within Sauce & Spoon.
+
+The framework was used to ensure strategic alignment between operational initiatives and organizational goals, allowing project success to be measured against measurable business outcomes.
+
+### Key Contributions
+
+* Established organizational objectives and measurable outcomes
+* Connected project initiatives to business strategy
+* Defined success criteria and performance indicators
+* Supported benefits realization planning
+* Improved executive visibility into project value
+
+### Skills Demonstrated
+
+* Strategic Planning
+* Benefits Realization
+* KPI Development
+* Performance Measurement
+* Business Alignment
+* Program Governance
