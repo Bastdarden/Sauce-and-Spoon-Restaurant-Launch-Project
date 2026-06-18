@@ -45,3 +45,24 @@ Pilot Testing Support
 Performance Measurement
 Stakeholder Feedback Analysis
 Decision Support
+
+## Friends & Family Day Survey Results – Pre-Launch Validation Testing
+
+This document contains feedback collected during Friends & Family Day testing, which served as a controlled pre-launch validation phase for the Sauce & Spoon Digital Menu Tablet Initiative. The survey evaluated system usability, ordering experience, and perceived customer satisfaction prior to full pilot deployment.
+
+The results were used to identify early usability concerns, validate system functionality, and refine training and deployment strategies.
+
+### Key Contributions
+Conducted pre-launch usability validation testing
+Gathered early-stage user experience feedback
+Identified system usability improvements prior to pilot launch
+Supported risk reduction before full deployment
+Validated operational readiness
+
+### Skills Demonstrated
+Usability Testing
+Pre-Launch Validation
+Quality Assurance Support
+Customer Experience Analysis
+Risk Reduction
+Feedback Analysis
