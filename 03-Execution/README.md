@@ -20,3 +20,8 @@ The Test Launch Findings report evaluated the performance of the Sauce & Spoon D
 * Stakeholder Reporting
 * Continuous Improvement
 
+## Email Coalition/Stakeholder Communication & Change Control Management – Digital Transformation Initiative
+
+Developed formal stakeholder communication to support change control decision-making within a digital transformation initiative for a multi-location restaurant organization. Evaluated proposed scope expansion, assessed operational and implementation risks, and reinforced alignment with approved pilot rollout strategy to ensure accurate performance measurement and successful project delivery.
+
+Skills: Stakeholder Management, Change Control, Risk Assessment, Project Communication, Executive Reporting, Organizational Alignment, Change Management.
